@@ -1,0 +1,110 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  min-height: 100vh;
+}
+.container-1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  height: 160px;
+  padding: 30px;
+  width: 900px;
+  border-radius: 15px;
+}
+.heading-1 {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.paragraph-1 {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.span-element {
+  color: #0b69ff;
+}
+.container-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 900px;
+  margin-top: 30px;
+}
+.container-3-1 {
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 20px;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading-2 {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.label-element {
+  font-size: 13px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  margin-bottom: 5px;
+}
+.input-1 {
+  outline: none;
+  margin-bottom: 13px;
+  padding: 5px;
+  width: 200px;
+  border: 1px solid #cbd5e1;
+  font-weight: 500;
+}
+.button {
+  height: 30px;
+  width: 60px;
+  background-color: #0b69ff;
+  border: 1px solid #0b69ff;
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin-top: 7px;
+  cursor: pointer;
+}
+.container-3-2 {
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 20px;
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container-3-2-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 350px;
+  padding: 10px;
+  border: 1px solid #cbd5e1;
+}
+.heading-3 {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-right: 12px;
+}
+.history-container {
+  display: flex;
+  flex-direction: column;
+}

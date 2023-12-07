@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.container-2 {
+  display: flex;
+  flex-direction: row;
+  width: 900px;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.container-2-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  border-radius: 10px;
+  width: 250px;
+  height: 100px;
+}
+.container-2-2 {
+  border: 1px solid #84cc16;
+  background-color: #ecfccb;
+}
+.image-icon {
+  height: 50px;
+  width: 50px;
+}
+.container-2-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.paragraph-2 {
+  font-size: 12px;
+  font-family: 'Roboto';
+  margin-bottom: 0;
+}
+.paragraph-3 {
+  font-size: 25px;
+  font-family: 'Roboto';
+  margin-top: 5px;
+}
+.container-2-4 {
+  border: 1px solid #06b6d4;
+  background-color: #cffafe;
+}
+.container-2-5 {
+  border: 1px solid #7c3aed;
+  background-color: #ede9fe;
+}
